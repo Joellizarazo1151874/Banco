@@ -30,7 +30,13 @@ Fue elaborado de la manera mas sencilla y eficiente posible y estas son son sus 
 * Adaptable para cualquier dispositivos.
 
 Estas son algunas de las interfaces Elaboradas
- <img src="file:///C:/Users/JOEL/Documents/parcial/img/index.png" width="550" title="hover text">
+
+<p>
+  <img src="https://joellizarazo1151874.github.io/webcorreo/img2/index.png" width="400" title="hover text">
+  <img src="https://joellizarazo1151874.github.io/webcorreo/img2/inicio.png" width="400" title="hover text">
+  <img src="https://joellizarazo1151874.github.io/webcorreo/img2/retiro.png" width="400" title="hover text">
+  <img src="https://joellizarazo1151874.github.io/webcorreo/img2/clave.png" width="400" title="hover text">
+</p>
   
 
 
